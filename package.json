@@ -1,0 +1,24 @@
+{
+  "name": "atividade-workflow",
+  "version": "1.0.0",
+  "description": "Atividade - Módulo Workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "npm",
+    "bootstrap",
+    "atividade"
+  ],
+  "author": "Lauro L. Nunes",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-csso": "^3.0.1",
+    "gulp-htmlmin": "^4.0.0",
+    "gulp-sass": "^4.0.1"
+  }
+}
